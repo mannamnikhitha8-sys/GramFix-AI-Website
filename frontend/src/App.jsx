@@ -1,7 +1,7 @@
 
 import React, { useEffect, useRef, useState } from "react";
 
-const API = "http://127.0.0.1:5000/api";
+const API = "https://gramfix-ai-backend.onrender.com/api";
 
 const languages = [
   { name: "Telugu", code: "te-IN" },
